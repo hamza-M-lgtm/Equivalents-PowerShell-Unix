@@ -1,0 +1,8 @@
+Get-Command -Verb Copy         cp
+Get-Command -Verb Remove       rm
+Get-Command -Verb Set          cd
+Get-Command -Verb New          mkdir
+Get-Help Get-Help              man
+Get-Command -Noun History      history
+Get-Command -Verb Set          alias
+Get-Command -Verb Get          cat
